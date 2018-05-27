@@ -44,7 +44,7 @@ def plot_powers_x(df):
     plt.show()
 
 def plot_roots(df):
-    '''takes a df with x and y; multiplies y out by 6 exponents'''
+    '''takes a df with x and y; multiplies y out by 1/6 exponents; plots roots for positive values of x'''
 
     fig = plt.subplots()
 
